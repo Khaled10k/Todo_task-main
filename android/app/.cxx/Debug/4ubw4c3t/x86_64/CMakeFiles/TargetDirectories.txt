@@ -1,0 +1,2 @@
+C:/Users/ENTER/Desktop/new/todo_task-main/android/app/.cxx/Debug/4ubw4c3t/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ENTER/Desktop/new/todo_task-main/android/app/.cxx/Debug/4ubw4c3t/x86_64/CMakeFiles/rebuild_cache.dir
