@@ -38,7 +38,7 @@ It allows users to create, update, and delete their daily tasks in a smooth and 
 
 ### Requirements
 
-- Flutter SDK
-- Android Studio or VS Code
+-- Flutter SDK
+-- Android Studio or VS Code
 
 
